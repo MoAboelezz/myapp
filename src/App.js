@@ -11,6 +11,7 @@ function App() {
       <Price price={product.price}/>
       <Description description={product.description}/>
     </div>
+    
   );
 }
 
