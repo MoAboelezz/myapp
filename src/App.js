@@ -15,6 +15,7 @@ function App() {
       <Description description={product.description}/>
     </div>
 
+
   );
 }
 
