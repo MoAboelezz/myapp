@@ -4,6 +4,9 @@ import Name from './Name';
 import Price from './Price';
 import Description from './Description';
 import product from './Product';
+
+
+
 function App() {
   return (
     <div className="App">
@@ -11,7 +14,7 @@ function App() {
       <Price price={product.price}/>
       <Description description={product.description}/>
     </div>
-    
+
   );
 }
 
