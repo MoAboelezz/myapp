@@ -6,7 +6,6 @@ import Description from './Description';
 import product from './Product';
 
 
-
 function App() {
   return (
     <div className="App">
